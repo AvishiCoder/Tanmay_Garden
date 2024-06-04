@@ -1,0 +1,39 @@
+   h1{
+    color:green;
+    font-weight: 100000;
+}
+
+#seema_tai{
+    border-radius: 50%;
+    width: 260px;
+  
+}
+
+#garden{
+    width:300px;
+   
+}
+
+body{
+    font-size: larger;
+    background-color:palegreen;
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .image-container img {
+    width:350px; /* Adjust the width as needed */
+    height:450px;
+    margin: 80px; /* Adjust the margin as needed */
+  }
+
+ li{
+    position:fixed;
+  }
+
+  a{
+    color:lightcoral;
+  }
